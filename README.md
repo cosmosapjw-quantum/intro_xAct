@@ -32,7 +32,7 @@ I. Mathematica가 설치되어 있는 경우
 
 
 > 맥:
-> - system-wide installation (requires root priviledges):
+> - system-wide installation:
 >
 >  /Library/Mathematica/Applications/
 >
@@ -81,3 +81,4 @@ https://github.com/WolframResearch/WolframLanguageForJupyter
 (주의: '압축 파일 명으로 폴더 만들어서 압축 풀기' 등의 옵션은 해제하고 압축을 풀어야 한다. 이미 폴더가 압축된 것이기 때문에 이중으로 폴더를 생성하면 설치가 되지 않는다.)
 
 7. jupyter notebook을 실행하여 xAct_intro.ipnyb 파일을 열고 첫 줄을 실행한다. 에러가 발생하지 않으면 설치가 제대로 된 것이다
+(참고사항: vscode를 쓰는 경우 Wolfram language에 대한 extension이 있으니 설치해서 실행하는 것을 권장한다.)
