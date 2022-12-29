@@ -1,13 +1,13 @@
 일반상대론의 symbolic computation을 위한 package "xAct" 안내서 ver 0.1
 =============
 
-본 github 코드는 숭실대학교 우주물질연구소 15회차 정기 미팅 때 발표한 내용을 기반으로 만든 것입니다.
+본 github 코드는 숭실대학교 우주물질연구소 Astro-Particle/Nuclear-Physics_Group 15회차 정기 미팅 때 발표한 내용을 기반으로 만든 것입니다.
 
 - 문의 이메일: cosmosapjw@soongsil.ac.kr
 - 참고사항: 본 안내서의 많은 부분은 아래 Cyril Pitrou 교수님의 코드 모음집에서 내용을 가져오거나 참조하여 만들어진 것입니다.
 추후 지속적 업데이트를 통하여 보다 독립적이고 상세한 내용의 안내서를 만들 계획입니다. 업데이트 알림은 내부 메일로 드릴 예정이니 참조 바랍니다.
 
-https://github.com/xAct-contrib/examples/blob/master/README.md
+
 
 xAct 및 Wolfram Engine 설치 방법
 =============
